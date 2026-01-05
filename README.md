@@ -1,6 +1,6 @@
 # 👷 Nícolas Presença
 
-**`Desenvolvedor | Cloud Computing`**
+**`Infra/DevOps | Cloud Computing |  `**
 
 Me chamo Nícolas. Atualmente, estou cursando Ciências da Computação na Fundação Santo André. Busco constantemente aprimorar minhas habilidades, resolvendo problemas, trabalhando em equipe e explorando novas tecnologias, como os avanços em Inteligência Artificial Generativa. Gosto de jogar videogames e ler sobre notícias.
 
