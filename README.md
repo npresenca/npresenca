@@ -2,7 +2,7 @@
 
 **`Desenvolvedor | Cloud Computing`**
 
-Me chamo Nícolas, tenho 19 anos. Atualmente, estou cursando Sistemas de Informação na São Judas. Busco constantemente aprimorar minhas habilidades, resolvendo problemas, trabalhando em equipe e explorando novas tecnologias, como os avanços em Inteligência Artificial Generativa. Gosto de jogar videogames e ler sobre notícias.
+Me chamo Nícolas, tenho 19 anos. Atualmente, estou cursando Ciências da Computação na Fundação Santo André. Busco constantemente aprimorar minhas habilidades, resolvendo problemas, trabalhando em equipe e explorando novas tecnologias, como os avanços em Inteligência Artificial Generativa. Gosto de jogar videogames e ler sobre notícias.
 
 ### 🤖 Linguagens e Tecnologias 
 <img 
