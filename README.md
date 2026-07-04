@@ -1,8 +1,8 @@
 # 👷 Nícolas Presença
 
-**`Ciência da Computação | Cloud Computing | Redes   `**
+**`Ciência da Computação | Python | Redes   `**
 
-Me chamo Nícolas. Atualmente, estou cursando Ciências da Computação na Fundação Santo André. Busco constantemente aprimorar minhas habilidades, resolvendo problemas, trabalhando em equipe e explorando novas tecnologias, como Infraestrutura e Sistemas com redes, cloud, etc. Gosto de jogar videogames e ler sobre notícias.
+Me chamo Nícolas. Atualmente, estou cursando Ciências da Computação na Fundação Santo André. Estou me aperfeiçoando na área de infraestrutura de redes, suporte e desenvolvimento com Python. 
 
 ### 🤖 Linguagens e Tecnologias 
 <img 
